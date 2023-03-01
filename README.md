@@ -1,0 +1,2 @@
+# kNN-Iris
+k-Nearest Neighbors algorithm on Iris Dataset. The Iris Dataset contains the four features (length of sepal, width of sepal, length of petal, and width of petal) of hundred fifty samples of three species (Iris setosa, Iris virginica, and Iris versicolor) of iris flowers. In this code, by importing ‘Iris Dataset’ from ‘sklearn’ package and applying ‘K-Nearest Neighbors’ as the classifier of supervised learning technique, the accuracy of both training and testing phases has been evaluated and visualized.
